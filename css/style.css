@@ -1,0 +1,43 @@
+.navbar-img{
+
+    width: 70px;
+    height: 70px;
+    box-sizing: content-box;
+
+}
+
+td button{
+
+    color: white !important;
+    padding: 1px 5px !important;
+    font-weight:500 !important;
+    
+}
+
+
+.table-icon{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    box-sizing: content-box;
+
+}
+
+.table-icon svg{
+
+    width: 100%;
+    height: 100%;
+    color: grey;
+}
+
+td .col{
+
+    flex-grow: 0;
+
+}
