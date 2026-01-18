@@ -20,8 +20,8 @@ td button{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
     padding: 10px;
     border: 2px solid grey;
     border-radius: 5px;
@@ -39,5 +39,23 @@ td button{
 td .col{
 
     flex-grow: 0;
+
+}
+
+.card{
+
+    margin-bottom: 1em;
+
+}
+
+.card-header{
+
+    font-size: 20pt;
+
+}
+
+table button{
+
+    text-wrap-mode: nowrap;
 
 }
